@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/proxy-media/:path*",
+      "destination": "https://r2.dev*"
+    }
+  ]
+}
